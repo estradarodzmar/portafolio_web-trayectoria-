@@ -12,22 +12,6 @@ Primera parte de la página web:
 
 ![Primera parte de la página web](imagenes/captura1.png)
 
-Experiencia:
-
-![Experiencia](imagenes/captura2.png)
-
-Galeria:
-
-![Galeria](imagenes/captura3.png)
-
-Testimonios:
-
-![Testimonios](imagenes/captura4.png)
-
-Contactos:
-
-![Contactos](imagenes/captura5.png)
-
 ## Tecnologías
 
 Esta página web fue creada con:
